@@ -1,0 +1,2 @@
+# Customer-Product-and-Profitability-Performance-Analysis-in-Supply-Chain-Operations
+By uncovering customer value, product profitability, and discount-driven margin erosion, this project enables APL Logistics to optimize not just how fast it delivers, but how profitably it operates. Its purpose, metrics, and decisions supported are completely distinct, making it a critical complement in end-to-end supply chain analytics
